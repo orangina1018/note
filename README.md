@@ -1,2 +1,3 @@
-# note
-# how to use git for me
+# note for me
+## how to use git for me
+## how to use Markdown for me
