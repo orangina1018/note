@@ -1,3 +1,3 @@
-'''
-pyenv activate pv-env
-'''
+```
+$ pyenv activate pv-env
+```
