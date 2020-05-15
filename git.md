@@ -12,3 +12,7 @@ $ git reset HEAD --hard
 $ git branch -D <ブランチ名>
  ```
  ブランチを削除　detached HEADの時に使える
+ ```
+$ git checkout -b <ブランチ名>
+```
+　ローカルにブランチを作る
